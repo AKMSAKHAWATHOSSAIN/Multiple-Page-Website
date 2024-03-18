@@ -68,3 +68,37 @@ header{
     font-size: 20px;
     padding:5px 20px;
 }
+
+/* main section code start  */
+main{
+    background-color: #202364;
+    padding-top: 20px;
+}
+#main-section{
+    width:1100px;
+    margin:0 auto;
+    padding:50px 0;
+}
+#latest-video-page-parent{
+    display: flex;
+    justify-content: space-between;
+}
+#latest-video-text{
+    font-size: 25px;
+    color:#04AA60;
+}
+#latest-video-page-parent span{
+    color:antiquewhite;
+    background-color: rgb(162, 155, 155);
+}
+#latest-page{
+    color:#04AA60;
+}
+#latest-page span{
+    color:black;
+    background-color: antiquewhite;
+    padding:5px;
+    margin:0 10px;
+    border-radius: 4px;
+    border:1px solid gray;
+}
